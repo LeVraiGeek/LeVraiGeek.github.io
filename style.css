@@ -1,6 +1,11 @@
+@font-face {
+    font-family: Minecraft;
+    src: url(Minecraft.ttf);
+}
+
 body {
     margin: 0px;
-    font-family: Minecraft;
+    font-family: 'Minecraft';
     padding-top: 120px;
 }
 
@@ -14,7 +19,7 @@ p {
     text-align: center;
     position: relative;
     font-size: 30px;
-    width: 60%;
+    width: 70%;
     margin: auto;
 }
 

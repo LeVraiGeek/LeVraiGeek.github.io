@@ -29,7 +29,7 @@ p {
     z-index: 10;
     height: 100px;
     width: 100%;
-    background-color: #00861F;
+    background-color: blue;
     padding-top: 10px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -54,7 +54,7 @@ p {
 
 #menu ul li a {
     font-size: 25px;
-    color: yellow;
+    color: white;
     padding-top: 15px;
     text-decoration: none;
     text-align: center;
@@ -62,9 +62,9 @@ p {
     position: relative;
     height: 40px;
     width: 200px;
-    background-color: #01B22A;
+    background-color: darkblue;
     border-radius: 5px;
-    box-shadow: 4px 4px 0px 1px #006b19;
+    box-shadow: 4px 4px 0px 1px black;
 }
 
 #menu ul li a:hover {
@@ -78,5 +78,5 @@ p {
 }
 
 html {
-    background-color: #00861F;
+    background-color: darkblue;
 }

@@ -73,10 +73,10 @@ p {
 }
 
 #main {
-    background-color: lightblue;
+    background-color: darkblue;
     padding-bottom: 4em;
 }
 
 html {
-    background-color: darkblue;
+    background-color: blue;
 }

@@ -29,7 +29,7 @@ p {
     z-index: 10;
     height: 100px;
     width: 100%;
-    background-color: black;
+    background-color: rgb(30, 30, 30);
     padding-top: 10px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -62,13 +62,12 @@ p {
     position: relative;
     height: 40px;
     width: 200px;
-    background-color: darkgray;
+    background-color: gray;
     border-radius: 5px;
 }
 
 #menu ul li a:hover {
-    color: black;
-    background-color: gray;
+    background-color: black;
 }
 
 #main {

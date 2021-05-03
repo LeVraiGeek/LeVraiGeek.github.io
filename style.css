@@ -1,11 +1,6 @@
-@font-face {
-    font-family: Minecraft;
-    src: url(Minecraft.ttf);
-}
-
 body {
     margin: 0px;
-    font-family: 'Minecraft';
+    font-family: 'Verdana';
     padding-top: 50px;
 }
 

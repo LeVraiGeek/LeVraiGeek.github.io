@@ -71,10 +71,10 @@ p {
 }
 
 #main {
-    background-color: rgb(0, 0, 40);
+    background-color: rgb(20, 20, 20);
     padding-bottom: 4em;
 }
 
 html {
-    background-color: darkblue;
+    background-color: rgb(20, 20, 20);
 }

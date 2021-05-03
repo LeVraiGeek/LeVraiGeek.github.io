@@ -39,6 +39,8 @@ p {
     list-style-type: none;
     float: left;
     position: relative;
+    top: 0px;
+    left: 0px;
 }
 
 #menu ul li a {

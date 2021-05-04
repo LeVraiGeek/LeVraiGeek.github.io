@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url("./Minecraft.ttf");
+}
+
 body {
     margin: 0px;
-    font-family: 'Verdana';
+    font-family: 'Minecraft';
     padding-top: 50px;
 }
 

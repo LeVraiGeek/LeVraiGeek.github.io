@@ -49,12 +49,12 @@ p {
 #menu ul li a {
     font-size: 25px;
     color: white;
-    padding-top: 38px;
+    padding-top: 32px;
     text-decoration: none;
     text-align: center;
     display: inline-block;
     position: relative;
-    height: 62px;
+    height: 68px;
     width: 200px;
 }
 

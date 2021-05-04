@@ -33,7 +33,7 @@ p {
     padding-top: 0px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: 20px 5px 20px 2px;
+    box-shadow: 20px 5px 20px 2px black;
 }
 
 #menu p {

@@ -58,6 +58,7 @@ p {
 #menu ul li a {
     font-size: 25px;
     color: white;
+    cursor: pointer;
     padding-top: 32px;
     text-decoration: none;
     text-align: center;
